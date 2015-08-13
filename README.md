@@ -1,5 +1,6 @@
 # shiny-server
-I am creating this Shiny-Server.
+I am creating this Shiny-Server to make my statistical tool mobilable.
+[Own a RStudio Shiny Server](https://englianhu.wordpress.com/statistics/own-a-rstudio-shiny-server/)
 
 Here is a package about Shiny-Server.
 - <http://recology.info/2014/05/analogsea/>
